@@ -1,0 +1,11 @@
+c:\users\faruk\documents\visual studio 2010\Projects\anketproje\anketproje\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\faruk\documents\visual studio 2010\Projects\anketproje\anketproje\obj\x86\Debug\anketproje.Form1.resources
+c:\users\faruk\documents\visual studio 2010\Projects\anketproje\anketproje\obj\x86\Debug\anketproje.Form2.resources
+c:\users\faruk\documents\visual studio 2010\Projects\anketproje\anketproje\obj\x86\Debug\anketproje.Properties.Resources.resources
+c:\users\faruk\documents\visual studio 2010\Projects\anketproje\anketproje\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\faruk\documents\visual studio 2010\Projects\anketproje\anketproje\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\faruk\documents\visual studio 2010\Projects\anketproje\anketproje\bin\Debug\anketproje.exe
+c:\users\faruk\documents\visual studio 2010\Projects\anketproje\anketproje\bin\Debug\anketproje.pdb
+c:\users\faruk\documents\visual studio 2010\Projects\anketproje\anketproje\obj\x86\Debug\anketproje.exe
+c:\users\faruk\documents\visual studio 2010\Projects\anketproje\anketproje\obj\x86\Debug\anketproje.pdb
+C:\Users\faruk\Documents\Visual Studio 2010\Projects\anketproje\anketproje\obj\x86\Debug\anketproje.Form3.resources
